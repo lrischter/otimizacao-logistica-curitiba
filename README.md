@@ -14,7 +14,7 @@ Este projeto nasceu da necessidade de identificar locais estratégicos para a in
 
 ## 🛠️ Tecnologias Utilizadas
 - **Linguagem**: Python (Bibliotecas: Pandas, Scikit-Learn, Matplotlib).
-- **GIS**: QGIS 3.x.
+- **GIS**: QGIS 3.4
 - **Dados**: IBGE (Setores Censitários) e IPPUC (Sistema Viário).
 
 ## 📊 Resultado Final
@@ -23,7 +23,7 @@ Abaixo, a visualização cartográfica dos hubs estratégicos e sua abrangência
 ![Mapa Final](hubs_logisticos.png)
 
 ---
-*Projeto desenvolvido por [Leonardo Gabriel Rischter]. Conecte-se comigo no (https://www.linkedin.com/in/leonardo-rischter/).*
+*Projeto desenvolvido por Leonardo Gabriel Rischter. Conecte-se comigo no https://www.linkedin.com/in/leonardo-rischter/.*
 
 
 
