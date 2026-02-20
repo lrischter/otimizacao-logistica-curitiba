@@ -12,10 +12,11 @@ Este projeto nasceu da necessidade de identificar locais estratégicos para a in
    - Criação de áreas de influência (Buffers).
    - Cruzamento com o sistema viário para validar o acesso às rodovias.
 
-## 🛠️ Tecnologias Utilizadas
-- **Linguagem**: Python (Bibliotecas: Pandas, Scikit-Learn, Matplotlib).
-- **GIS**: QGIS 3.4
-- **Dados**: IBGE (Setores Censitários) e IPPUC (Sistema Viário).
+🛠️ **Tecnologias Utilizadas**
+
+**Linguagem:** Python (Bibliotecas: GeoPandas, Shapely, Pandas, Scikit-Learn, Matplotlib).
+**GIS:**: QGIS 3.4
+**Dados:** IBGE (Setores Censitários), IPPUC (Sistema Viário Urbano) e DER-PR (Sistema Rodoviário).
 
 ## 📊 Resultado Final
 Abaixo, a visualização cartográfica dos hubs estratégicos e sua abrangência sobre a malha urbana de Curitiba:
